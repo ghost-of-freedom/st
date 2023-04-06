@@ -10,4 +10,4 @@ Customizations:
 - blinking is disabled
 - IBM Plex is set as the default font
 - padding changed to 10px
-- line height changed to 1.42857143
+- line height changed to 1.1
